@@ -1,0 +1,31 @@
+
+body {
+    font-family: 'Poppins', sans-serif; 
+}
+
+.custom-container {
+    width: 60%;
+}
+
+.color-eco{
+    color: #A2F4AF;
+}
+
+.nav-bg{
+    background-color: #1D952F;
+}
+
+.font-navbar{
+    font-family: 'Quicksand', sans-serif;
+}
+
+.konten{ 
+    font-family: 'Quicksand', sans-serif;
+}
+
+.footer {
+    background-color: #494646;
+}
+ .padding {
+    padding: 60px 0;
+ }
